@@ -1,0 +1,18 @@
+Cree cliente
+Cree agente
+
+Añadi casos de uso: 
+-Resgistrarse
+-Hacer consultas
+-Reservar Vuelos
+-Comprar Vouchers
+-Colocar nuevos vuelos
+-Reprogramar vuelos
+
+A cada uno de ellos les agregue la descripcion breve y los asocie con sus respectivos actores
+
+Con Lucio añadimos descripciones breves a los casos de uso:
+-Informar vuelos a un destino
+-Informar vuelos mas vendidos
+-Carga registro de inspeccion
+-Concretar pre compra e imprimir vouchers
